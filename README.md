@@ -1,6 +1,6 @@
-# Frontend Mentor - FAQ accordion solution
+# Frontend Mentor - Recipe page solution
 
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This screenshot represents the output of my code.
 
 ### Links
 
-- Solution URL: [https://github.com/Coder-Sadik/faq-accordion](https://github.com/Coder-Sadik/faq-accordion)
-- Live Site URL: [https://coder-sadik.github.io/faq-accordion/](https://coder-sadik.github.io/faq-accordion/)
+- Solution URL: [https://github.com/Coder-Sadik/recipe-page](https://github.com/Coder-Sadik/recipe-page)
+- Live Site URL: [https://coder-sadik.github.io/faq-accordion/](https://coder-sadik.github.io/recipe-page/)
 
 ## My process
 
@@ -38,11 +38,12 @@ This is a very easy and simple task, I have used only HTML and vanila CSS to com
 
 ### Continued development
 
-I'm participating #100DaysOfCode challenge. This is my day-3. So, I'm hopeful about working on more projects.
+I'm participating #100DaysOfCode challenge. This is my day-4. So, I'm hopeful about working on more projects.
 
 ### Useful resources
 
 - [Flexbox](https://www.w3schools.com/css/css3_flexbox_container.asp) - If you are new with display flex property then you can learn from here.
+- [Ordered List and Unordered List](https://www.w3schools.com/tags/tag_ul.asp)
 
 ## Author
 
