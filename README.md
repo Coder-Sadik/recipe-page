@@ -24,7 +24,7 @@ This screenshot represents the output of my code.
 ### Links
 
 - Solution URL: [https://github.com/Coder-Sadik/recipe-page](https://github.com/Coder-Sadik/recipe-page)
-- Live Site URL: [https://coder-sadik.github.io/faq-accordion/](https://coder-sadik.github.io/recipe-page/)
+- Live Site URL: [https://coder-sadik.github.io/recipe-page/](https://coder-sadik.github.io/recipe-page/)
 
 ## My process
 
